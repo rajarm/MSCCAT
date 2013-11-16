@@ -8,7 +8,7 @@
 /*255-IBM AMS_Bijesh Kumar-Budget Check Logic for Account Type "F" and Company Code '1000'*/
 //182-IBM AMS_Vikram - Add Requisitioner's supervisor as the approver for Singapore credit invoices
 // 08/21/2013		Jayashree B S	     		Q4 2013 - RSD103 - FDD 4/TDD 1.1	         Add CSCL Customs Team into PR and IR Approval Flow
-
+//testManoj
 
 package config.java.common;
 
